@@ -1,0 +1,20 @@
+.caja{
+	margin:auto;
+
+	background-color:#7E93FF;
+}
+li{
+	display:inline-block;
+	
+	font: bold 20px verdana, sans-serif;
+}
+ li:hover{
+	background-color: white;
+}
+.bd{
+	background-color: #19FFD5;
+}
+.bd1{
+	background-color: #FDA1FF;
+}
+
